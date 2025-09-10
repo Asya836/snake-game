@@ -4,7 +4,7 @@ C# kullanılarak yapılan windows form uygulamasıdır.
 
 Oyunun amacı elmaları yiyerek 500 puana ulaşmaktır.
 
-Oyunu başlatınca ekranda rastgele yerlerde kırmızı cisimler(elma) oluşur. Yön tuşlarıyla elma yakalanmaya çalışılır. Her elma üstünden geçince yılan büyür ve elma başka yerlerde ortaya çıkar. Eğer yılan kendine değerse veya kendi üstünden geçmeye çalışırsa oyun kaybedilir. Elmaları toplayıp 500 puana ulaşınca oyun kazanılır.
+Oyunu başlatınca ekranda rastgele yerlerde kırmızı cisimler(elma) oluşur. Klavye tuşlarıyla yön değiştirilerek elma yakalanmaya çalışılır. Her elma üstünden geçince yılan büyür ve elma başka yerlerde ortaya çıkar. Eğer yılan kendine değerse veya kendi üstünden geçmeye çalışırsa oyun kaybedilir. Her elma 50 puandır ve 500 puana ulaşınca oyun kazanılır.
 
 
 <img width="500" height="400"  src="https://github.com/user-attachments/assets/e2c2a55b-f3fe-4cc4-84a9-6ed605638c40" />
